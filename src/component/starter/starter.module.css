@@ -1,0 +1,17 @@
+.starter {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+
+  > button {
+    font-size: 18px;
+    color: white;
+    background-color: #055e99;
+    border: none;
+    outline: none;
+    padding: 10px 25px;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+}

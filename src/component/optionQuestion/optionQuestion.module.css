@@ -1,0 +1,10 @@
+.option_Question {
+  display: flex;
+  justify-content: start;
+  padding: 15px 20px;
+  color: #fff;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

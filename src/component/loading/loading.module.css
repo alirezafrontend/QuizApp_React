@@ -1,0 +1,11 @@
+.loading {
+    background-color: #045a93;
+    border-radius: 25px !important;
+}
+
+.btn_loading {
+   width: 200px;
+   padding: 10px 20px !important;
+   background-color: #045a93 !important;
+   border-radius: 25px !important;
+}

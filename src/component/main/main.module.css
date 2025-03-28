@@ -1,0 +1,15 @@
+.main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  min-height: 100vh;
+  padding: 30px 0;
+  background: linear-gradient(
+    0deg,
+    rgba(6, 90, 145, 1) 0%,
+    rgba(39, 164, 247, 1) 81%
+  );
+}
